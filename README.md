@@ -11,12 +11,15 @@
 <p>Création du role</p>
 <img src="images/rolekeycloak.png">
 
-<p>User1 attribution du role et password</p>
+<p>User1 password</p>
 <img src="images/password_user1.png">
+
+<p>User1 attribution du role </p>
 <img src="images/roleuser1.png">
 
-<p>User1 attribution du role et password</p>
+<p>User1  password</p>
 <img src="images/password_user2.png">
+<p>User1 attribution du role</p>
 <img src="images/role_user2.png">
 
 <p>Refresh and acces token</p>
