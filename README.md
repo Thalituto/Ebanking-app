@@ -9,7 +9,15 @@
 <p>Création du user</p>
 <img src="images/userskeycloak.png">
 <p>Création du role</p>
-<img src="images/rolekeycloak.png.png">
+<img src="images/rolekeycloak.png">
+
+<p>User1 attribution du role et password</p>
+<img src="images/password_user1.png.png">
+<img src="images/roleuser1.png">
+
+<p>User1 attribution du role et password</p>
+<img src="images/password_user2.png.png">
+<img src="images/role_user2.png">
 
 <p>Refresh and acces token</p>
 <img src="images/Refresh_acces.png">
